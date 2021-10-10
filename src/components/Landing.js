@@ -13,7 +13,7 @@ function Landing() {
                 <br/>
             <div className="hero">
                 <h3><span className="gradient">résumé buildr</ span></h3>
-                <p>made with ❤️ by <a href="https://twitter.com/tomgrigory" target="_blank">@tomgrigory</a></p>
+                <p>made with ❤️ by <br/> <a href="https://twitter.com/tomgrigory" target="_blank" rel="noreferrer">@tomgrigory</a> and <a href="https://twitter.com/sahilypatel" target="_blank" rel="noreferrer">@sahilypatel</a></p>
                 <br/>
                 <br/>
 
@@ -24,7 +24,7 @@ function Landing() {
                     show me what you’ve got
                 </a>
             </button>
-            <a href="https://www.figma.com/community/file/1028526282008491820" target="_blank">
+            <a href="https://www.figma.com/community/file/1028526282008491820" target="_blank" rel="noreferrer">
                     see demo
                 </a>
             </div>
